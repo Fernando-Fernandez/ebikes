@@ -17,9 +17,9 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
+        <!--<componentInstances>
             <componentName>cooper:companyInsightTeaserCard</componentName>
-        </componentInstances>
+        </componentInstances>-->
         <componentInstances>
             <componentInstanceProperties>
                 <name>displayOption</name>
